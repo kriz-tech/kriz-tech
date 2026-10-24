@@ -1,3 +1,4 @@
+<img src="./ninja-run.svg" width="95%" alt="Animated ninja running through a data stream"/>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:003d2e,100:00ff9c&height=230&section=header&text=KRISHNAVEL%20P&fontSize=56&fontColor=00ff9c&fontAlignY=38&animation=twinkling&desc=%3E%20Biomedical%20Engineering%20%7C%20Data%20Analytics%20%7C%20Data%20Engineering&descSize=16&descColor=00e5ff&descAlignY=60" width="100%" alt="Krishnavel profile banner"/>
