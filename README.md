@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="./ninja-run.svg" width="95%" alt="Animated ninja running through a data stream"/>
+<img src="./Naruto Uzhumaki.gif" width="95%" alt="Animated ninja running through a data stream"/>
 
 </div>
 
