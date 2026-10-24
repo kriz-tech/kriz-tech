@@ -1,53 +1,43 @@
-# Hi, I'm Krishnavel 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+KZ+%F0%9F%91%8B;Biomedical+Engineer+%2B+Data+Enthusiast;Aspiring+Data+Analyst+%2F+Data+Engineer" alt="Typing SVG" />
+</h1>
 
-### Biomedical Engineering | Aspiring Data Analyst & Data Engineer
+```python
+class KZ:
+    name       = "Krishnavel P"
+    education  = "B.E. Biomedical Engineering, PSG College of Technology (2027)"
+    location   = "Coimbatore, India"
+    aiming_for = ["Data Analyst", "Data Engineer"]
+    strengths  = ["Python", "Embedded Systems", "Applied ML", "Medical Signals & Imaging"]
+    currently  = "Building BreatheSync, a VR breathing exercise app with ESP32"
+    learning   = ["SQL", "Pandas", "Data Pipelines", "DSA"]
 
-I'm a Biomedical Engineering student interested in transforming data into meaningful insights and developing data-driven solutions for healthcare.
+    def motto(self):
+        return "Turning biomedical data into decisions."
+```
 
-My interests combine data analytics, programming, biomedical signal processing, and medical image analysis.
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎯 Areas of Interest
+## 🚀 Projects
+| Project | What it does | Stack |
+|---|---|---|
+| [BreatheSync](link) | Gamified VR breathing exercise app using an airflow sensor | ESP32, VR |
+| [Dental OPG Detection](link) | Disease detection on panoramic dental X-rays | Python, YOLOv8 |
+| [TB Chest X-ray Enhancement](link) | Image enhancement to support TB screening | Python, OpenCV |
 
-- 📊 Data Analytics & Exploratory Data Analysis
-- ⚙️ Data Engineering & ETL Pipelines
-- 🏥 Healthcare and Biomedical Data
-- 🧬 Biomedical Signal and Medical Image Analysis
-- 📈 Statistical Analysis and Data Visualization
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
-## 🛠️ Technical Skills
-
-**Programming:** Python, C, C++
-
-**Data Analysis:** NumPy, Pandas, Matplotlib
-
-**Biomedical Computing:** MATLAB, OpenCV, Signal Processing
-
-**Development Tools:** Git, GitHub, Jupyter Notebook
-
-**Currently Learning:** SQL, Power BI, Data Modeling, ETL and Data Warehousing
-
-## 🚀 Featured Projects
-
-- **BreathTrack** — Respiratory effort monitoring and interactive breathing rehabilitation.
-- **Retinal Vessel Segmentation** — Image processing techniques for retinal vessel extraction.
-- **ICD Explorer** — Exploring healthcare coding and interoperability.
-- **Biomedical Data Analysis** — Applying data analysis methods to biomedical datasets.
-
-*Project links and results will be added as each repository is reviewed and improved.*
-
-## 📚 Current Learning Goals
-
-- Strengthen SQL and database querying.
-- Build reproducible data analysis projects with Python.
-- Develop data cleaning and visualization workflows.
-- Learn ETL pipelines and data warehousing.
-- Apply analytics to healthcare datasets.
-
-## 🤝 Let's Connect
-
-- GitHub: [@kriz-tech](https://github.com/kriz-tech)
-- LinkedIn: Add your LinkedIn profile URL
-
----
-
-*Turning biomedical data into meaningful insights, one project at a time.*
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
