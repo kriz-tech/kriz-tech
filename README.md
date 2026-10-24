@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f2a4a,100:1f6feb&height=230&section=header&text=KRISHNAVEL%20P&fontSize=56&fontColor=64ffda&fontAlignY=38&animation=fadeIn&desc=%3E%20Biomedical%20Engineering%20%7C%20Data%20Analytics%20%7C%20Data%20Engineering&descSize=16&descColor=ccd6f6&descAlignY=60" width="100%" alt="Krishnavel profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f2a4a,100:1f6feb&height=230&section=header&text=KRISHNAVEL%20P&fontSize=56&fontColor=64ffda&fontAlignY=38&animation=fadeIn&desc=%3E%20Biomedical%20Engineering%20%7C%20Data%20Analytics&descSize=16&descColor=ccd6f6&descAlignY=60" width="100%" alt="Krishnavel profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=64FFDA&background=00000000&center=true&vCenter=true&width=700&height=45&lines=%24+whoami+%E2%86%92+biomedical+engineer+%2B+data+enthusiast;%24+python+analyze.py+--data+healthcare;%24+select+insights+from+biomedical_data%3B;%24+building+reliable+data+pipelines..." alt="Typing animation"/>
 
