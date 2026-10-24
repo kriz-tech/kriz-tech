@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-64ffda?style=for-the-badge&labelColor=0a192f" alt="Status"/>
-<img src="https://img.shields.io/badge/TARGET-DATA_ANALYST_%2F_ENGINEER-5ccfe6?style=for-the-badge&labelColor=0a192f" alt="Target roles"/>
+<img src="https://img.shields.io/badge/TARGET-DATA_ANALYST_%2F_-5ccfe6?style=for-the-badge&labelColor=0a192f" alt="Target roles"/>
 <img src="https://img.shields.io/badge/DOMAIN-HEALTHCARE_DATA-1f6feb?style=for-the-badge&labelColor=0a192f" alt="Domain"/>
 
 <br/><br/>
@@ -36,7 +36,7 @@ Status ....  Open to opportunities
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1800&pause=100000&repeat=false&color=64FFDA&background=00000000&width=520&height=38&lines=%3E_+about_me" alt="about_me"/>
 
-I'm a **Biomedical Engineering student** aspiring to become a **Data Analyst or Data Engineer**, with a focus on healthcare and biomedical applications.
+I'm a **Biomedical Engineering student** aspiring to become a **Data Analyst**, with a focus on healthcare and biomedical applications.
 
 I enjoy working with programming, physiological signals, medical images and data-driven systems. My goal is to combine biomedical domain knowledge with analytics and engineering to turn complex data into useful insights.
 
