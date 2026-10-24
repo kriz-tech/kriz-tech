@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="./Naruto Uzhumaki.gif" width="95%" alt="Animated ninja running through a data stream"/>
+<img src="./naruto-walk.gif" width="95%" alt="Naruto walking along my data journey path"/>
 
 </div>
 
@@ -83,8 +83,6 @@ flowchart LR
 | [**Heartrate Monitoring**](https://github.com/kriz-tech/Heartrate-Monitoring-using-Arduino-Python) | Real-time heart rate (BPM) from a pulse sensor with noise removal and a live GUI | `Arduino` `Python` |
 | [**GI Sound Classification**](https://github.com/kriz-tech/GI-Track-Sound-Classification-Using-Scikit-learn-Python-) | Classifying gastrointestinal sounds as normal, hyperactive or hypoactive | `Python` `Scikit-learn` |
 | [**AIDA: Medical AI Assistant**](https://github.com/kriz-tech/AIDA---Medical-AI-Disease-Prediction-Assistant) | Web app that predicts possible diseases from user-entered symptoms | `Python` `ML` |
-| **Retinal Vessel Segmentation** | Image processing and blood vessel extraction | `Python` `OpenCV` |
-| **Dental OPG Detection** | Object detection on dental panoramic X-rays | `Python` `YOLOv8` |
 | **ICD Explorer** | Healthcare coding and interoperability | `Web` `HL7/FHIR` |
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1800&pause=100000&repeat=false&color=64FFDA&background=00000000&width=520&height=38&lines=%3E_+roadmap" alt="roadmap"/>
