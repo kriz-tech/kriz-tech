@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-64ffda?style=for-the-badge&labelColor=0a192f" alt="Status"/>
-<img src="https://img.shields.io/badge/TARGET-DATA_ANALYST_%2F_-5ccfe6?style=for-the-badge&labelColor=0a192f" alt="Target roles"/>
+<img src="https://img.shields.io/badge/TARGET-DATA_ANALYST_-5ccfe6?style=for-the-badge&labelColor=0a192f" alt="Target roles"/>
 <img src="https://img.shields.io/badge/DOMAIN-HEALTHCARE_DATA-1f6feb?style=for-the-badge&labelColor=0a192f" alt="Domain"/>
 
 <br/><br/>
