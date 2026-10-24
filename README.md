@@ -30,7 +30,7 @@ Class of ..  2027
 Target ....  Data Analyst / Data Engineer
 Domain ....  Healthcare & Biomedical Data
 Languages .  Python, C, C++, MATLAB
-Learning ..  SQL, Pandas, ETL, BI
+Learning ..  SQL, Pandas, ETL
 Status ....  Open to opportunities
 ```
 
@@ -38,7 +38,7 @@ Status ....  Open to opportunities
 
 I'm a **Biomedical Engineering student** aspiring to become a **Data Analyst**, with a focus on healthcare and biomedical applications.
 
-I enjoy working with programming, physiological signals, medical images and data-driven systems. My goal is to combine biomedical domain knowledge with analytics and engineering to turn complex data into useful insights.
+I enjoy working with programming, physiological signals, medical images and data-driven systems. My goal is to combine biomedical domain knowledge with analytics to turn complex data into useful insights.
 
 ```yaml
 interests:
